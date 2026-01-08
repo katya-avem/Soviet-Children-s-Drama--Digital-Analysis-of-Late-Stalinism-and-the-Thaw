@@ -2,11 +2,6 @@
 
 This repository contains analytical code and metadata for a Digital Humanities project devoted to the study of Soviet children’s drama from late Stalinism to the Khrushchev Thaw. The project applies quantitative text analysis methods to explore how models of family, childhood, and moral authority were constructed and transformed in postwar Soviet culture.
 
-The project is part of the PhD dissertation  
-**_The Path of the Soviet Family from Late Stalinism to the Thaw_**,  
-by **Ekaterina Kolevatova**,  
-conducted at **LMU Munich**.
-
 ---
 
 ## Project Scope
